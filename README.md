@@ -35,4 +35,3 @@ I would like to express my gratitude to the open-source community and the contri
 
 Thank you for visiting my GitHub! 🚀
 
-Hi, u/macbookaiirusr! 
