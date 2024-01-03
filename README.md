@@ -15,7 +15,7 @@ I'm a Web Developer with a strong foundation in web development and a knack for 
 
 Here are some of the notable projects I've worked on:
 
-1. **[Barangay Management System](https://github.com/Neo-Cicada/Thesis-Barangay-Management-System):** Welcome to the Barangay Management System repository! This project is a comprehensive system developed using React, Firebase, Node.js, Express, and Material-UI (MUI) design.
+1. **[Barangay Management System](https://github.com/Neo-Cicada/Thesis-Barangay-Management-System):**The Barangay Management System is designed to streamline and enhance the management processes within a barangay (local community). It provides a user-friendly interface for residents, administrators, and officials to access and manage essential information efficiently.
 
 
 2. **[Space Landing Page](https://github.com/Neo-Cicada/space-tourism):** A Frontend mentor challenge.
