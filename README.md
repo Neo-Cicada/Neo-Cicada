@@ -29,9 +29,4 @@ I'm always eager to expand my knowledge and stay updated with the latest technol
 
 I'm open to collaborations and discussions. If you have an interesting project or idea, feel free to reach out. Let's build something amazing together!
 
-## 🙏 Acknowledgments
-
-I would like to express my gratitude to the open-source community and the contributors behind the tools and libraries I've used in my projects.
-
-Thank you for visiting my GitHub! 🚀
 
