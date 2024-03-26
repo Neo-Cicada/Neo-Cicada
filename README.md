@@ -1,5 +1,5 @@
 
-👋 Hello there! I'm Neo, a passionate developer with expertise in HTML, CSS, JavaScript, Reactjs, Tailwind CSS, Java, Python, SQL, Express and Node. Welcome to my GitHub repository!
+👋 Hello there! I'm Neo, a passionate developer with expertise in HTML, CSS, JavaScript, Reactjs, Tailwind CSS, Java, Python, Postgresql, Express and Node. Welcome to my GitHub repository!
 
 ## 🚀 About Me
 
