@@ -9,7 +9,7 @@ I'm a Web Developer with a strong foundation in web development and a knack for 
 
 - **Front-end:** HTML, CSS, JavaScript, Reactjs, Tailwind CSS
 - **Back-end:** Java, Python, Django
-- **Database:** SQL
+- **Database:** Postgresql and SQL lite
 
 ## 📂 Projects
 
