@@ -22,11 +22,6 @@ Here are some of the notable projects I've worked on:
 
 ## 🌱 Currently Learning
 
-I'm always eager to expand my knowledge and stay updated with the latest technologies. Currently, I'm diving into Backend technologies.
-
-
-## 🤝 Collaborate
-
-I'm open to collaborations and discussions. If you have an interesting project or idea, feel free to reach out. Let's build something amazing together!
+MERN stack using [fullstackopen](https://fullstackopen.com/en/)
 
 
