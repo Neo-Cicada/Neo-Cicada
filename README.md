@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/Neo-Cicada?tab=followers">
-    <img src="https://img.shields.io/github/followers/Neo-Cicada?label=Followers&style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Neo-Cicada?style=for-the-badge&label=Followers&logo=github" />
+</a>
   <a href="https://github.com/Neo-Cicada?tab=stars">
     <img src="https://img.shields.io/github/stars/Neo-Cicada?label=Stars&style=for-the-badge" />
   </a>
