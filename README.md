@@ -29,8 +29,6 @@ I care about UI polish, backend correctness, and shipping work that feels real.
 
 - ⚙️ Focus: **React + Tailwind**, **Node/Express**, **PostgreSQL**
 - 🌱 Learning: **MERN** using **Full Stack Open**
-- 🧩 Building next: **Personal DevOps Dashboard** (GitHub OAuth + analytics + changelog generator)
-
 ---
 
 ## 🧰 Tech stack (icons)
