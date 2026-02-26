@@ -49,22 +49,6 @@ I care about UI polish, backend correctness, and shipping work that feels real.
 
 ---
 
-## 📊 Flashy stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Neo-Cicada&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Cicada&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Neo-Cicada&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neo-Cicada&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 📈 Activity graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neo-Cicada&hide_border=true" />
@@ -72,24 +56,18 @@ I care about UI polish, backend correctness, and shipping work that feels real.
 
 ---
 
-## 🚀 Featured build (no projects list — just one highlight)
-### ✅ Personal DevOps Dashboard (coming soon)
-A dashboard that tracks my GitHub activity + project health in one place.
+## 🚀 Featured build
+### ✅ Nexus Alpha 
 
-**Planned features**
-- GitHub OAuth login
-- Repo analytics (commits, PRs, issues, streaks)
-- Auto changelog builder from commits
-- “Today” focus panel (tasks + timer)
-- Clean UI with dark mode + keyboard shortcuts
 
-**Stack:** React + Tailwind • Node/Express • PostgreSQL
+
+**Stack:** React + Tailwind • Node/Express • MongoDB
 
 ---
 
 ## 🤝 Connect
 - GitHub: **@Neo-Cicada**
-- (Add your LinkedIn / portfolio here if you want)
+
 
 <!-- Optional fun footer -->
 <p align="center">
