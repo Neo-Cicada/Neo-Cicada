@@ -1,6 +1,6 @@
 <!-- ====== HERO / BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Neo%20Barnachea&fontAlign=50&fontAlignY=40&color=gradient&desc=Full-Stack%20Web%20Developer%20•%20React%20%2F%20Node%20%2F%20PostgreSQL&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Neo%20Barnachea&fontAlign=50&fontAlignY=40&color=gradient&desc=Full-Stack%20Web%20Developer%20•%20React%20%2F%20Node%20%2F%20SQL&descAlign=50&descAlignY=60" />
 </p>
 
 <p align="center">
