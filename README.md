@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Neo-Cicada">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=680&lines=Building+clean%2C+fast%2C+user-focused+web+apps;React+%2B+Tailwind+UI+%7C+Node%2FExpress+APIs+%7C+PostgreSQL;Currently+learning%3A+MERN+via+Full+Stack+Open;Shipping+features+%3E+collecting+ideas" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=680&lines=Building+clean%2C+fast%2C+user-focused+web+apps;React+%2B+Tailwind+UI+%7C+Node%2FExpress+APIs+%7C+SQL;Currently+learning%3A+MERN+via+Full+Stack+Open;Shipping+features+%3E+collecting+ideas" />
   </a>
 </p>
 
