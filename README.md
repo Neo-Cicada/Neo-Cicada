@@ -54,12 +54,13 @@ I care about UI polish, backend correctness, and shipping work that feels real.
 
 ---
 
-## 🚀 Featured build
-### ✅ Nexus Alpha 
+## 🚀 Featured Build
+### ✅ [Nexus Alpha](https://nexusalpha.business/)
+Real-time congressional stock trade tracker. Monitor politician disclosures, flag suspicious timing, and rank top traders across the US government.
 
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Express · MongoDB · Google OAuth · Yahoo Finance API
 
-
-**Stack:** React + Tailwind • Node/Express • MongoDB
+**Deployed on:** Vercel + Render
 
 ---
 
